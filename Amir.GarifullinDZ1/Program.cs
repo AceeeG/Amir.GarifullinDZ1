@@ -56,7 +56,6 @@ namespace Amir.GarifullinDZ1
                 double x1 = (b * (-1) + Math.Sqrt(D)) / 2;
                 double x2 = (b * (-1) - Math.Sqrt(D)) / 2;
                 Console.WriteLine("Имеется два корня, первый равен {0}, второй равен {1}", x1, x2);
-                Console.WriteLine(D);
             }
             else
             {
@@ -87,6 +86,7 @@ namespace Amir.GarifullinDZ1
             int num2 = rnd.Next();
             int num3 = rnd.Next();
             int num4 = rnd.Next();
+            Console.WriteLine("4 рандомных числа");
             Console.WriteLine(num1);
             Console.WriteLine(num2);
             Console.WriteLine(num3);
