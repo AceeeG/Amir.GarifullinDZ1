@@ -11,6 +11,8 @@ namespace Amir.GarifullinDZ1
         static void Main(string[] args)
         {
             Console.WriteLine("Privet");
+            
+            Console.WriteLine();
         }
     }
 }
