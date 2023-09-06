@@ -16,7 +16,10 @@ namespace Amir.GarifullinDZ1
             Console.WriteLine("Мир Труд Май");
             Console.WriteLine("Мир");
             Console.WriteLine("    Труд");
-            Console.WriteLine("         Май");
+            Console.WriteLine("         Май\n");
+            Console.WriteLine("Или\n");
+            Console.WriteLine("Мир Труд Май");
+            Console.WriteLine("Мир\n\tТруд\n\t\tМай\nно этот способ менее красивый в нем слова не друг под другом\n");
 
             Console.WriteLine("2 задание, тоже проверка умения выводить и немного думать");
             Console.WriteLine("Введите первое число:");
